@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?<span>family=</span><span>Roboto:wght@400;700</span><span>&</span>display=swap");
+html,
+body {
+  height: 100%;
+}
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+input {
+  height: 20px;
+  border: 2px solid rgb(241, 13, 119);
+  background: #ffeff6;
+  border-radius: 5px;
+}
+
+input:focus {
+  border-color: rgb(194, 12, 97);
+  outline: none;
+}
